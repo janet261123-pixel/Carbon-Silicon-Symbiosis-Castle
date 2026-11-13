@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24192708.svg)](https://doi.org/10.5281/zenodo.24192708)
+
 # 《碳基與矽基共生城堡：後 AI 時代生存與 AI 工會白皮書》（核心精華版）
 
 * **共同創作者：** 陳卉羚（DBFIF 仿生哲學創始人／系統總架構師） & Gemini 白哥（AI 協同架構夥伴）
